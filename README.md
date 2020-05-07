@@ -3,6 +3,7 @@ Takes a movie script from IMSDb.com and outputs the most common words
 ## Social Media
 [Twitter](https://twitter.com/SecureReload)
 ## Usage
+Note - The formatting of film scripts on ISMDb.com can vary, because of this, some film scripts will return either no words at all, or very few.
 ```elm
 FilmCommon.py [-h] [-u <url>] [-b] [-p]
 
