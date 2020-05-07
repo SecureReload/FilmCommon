@@ -1,7 +1,6 @@
 ## FilmCommon
 Takes a movie script from IMSDb.com and outputs the most common words
-## Twitter
-Twitter - @SecureReload
+[Twitter of SecureReload](https://twitter.com/SecureReload)
 ## Usage
 ```elm
 FilmCommon.py [-h] [-u <url>] [-b] [-p]
