@@ -1,5 +1,6 @@
 ## FilmCommon
-Takes a movie script from IMSDb.com and outputs the most common words \n
+Takes a movie script from IMSDb.com and outputs the most common words
+## Social Media
 [Twitter of SecureReload](https://twitter.com/SecureReload)
 ## Usage
 ```elm
