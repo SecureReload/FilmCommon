@@ -1,12 +1,6 @@
-___________.__.__          _________
-\_   _____/|__|  |   _____ \_   ___ \  ____   _____   _____   ____   ____
- |    __)  |  |  |  /     \/    \  \/ /  _ \ /     \ /     \ /  _ \ /    \
- |     \   |  |  |_|  Y Y  \     \___(  <_> )  Y Y  \  Y Y  (  <_> )   |  \
- \___  /   |__|____/__|_|  /\______  /\____/|__|_|  /__|_|  /\____/|___|  /
-     \/                  \/        \/             \/      \/            \/
-
+## FilmCommon
 Takes a movie script from IMSDb.com and outputs the most common words
-## Contact Me
+## Twitter
 Twitter - @SecureReload
 ## Usage
 ```elm
